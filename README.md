@@ -1,2 +1,2 @@
 # Medical_Store_Management_System
-Fully functional system made using Java
+Fully functional Store management system made using Java
